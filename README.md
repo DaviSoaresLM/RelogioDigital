@@ -1,3 +1,8 @@
+Ótimo, Davi! Aqui está o conteúdo personalizado do `README.md` para o seu projeto **RelogioDigital**:
+
+---
+
+```markdown
 # RelogioDigital
 
 Este é um projeto Android simples desenvolvido no Android Studio que exibe um relógio digital com a hora atual. O projeto conta com uma interface estilizada utilizando `ConstraintLayout`, um `TextClock`, e um botão que pode ser programado para mostrar a hora atual em um `TextView`.
@@ -12,19 +17,49 @@ Este é um projeto Android simples desenvolvido no Android Studio que exibe um r
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Kotlin
+- **Linguagem:** Java
 - **IDE:** Android Studio
 - **Layout:** XML (ConstraintLayout)
 - **Componentes:** `TextView`, `TextClock`, `Button`
-
-## 📷 Capturas de Tela
-
-> Adicione imagens dentro da pasta `assets` do seu repositório e referencie aqui, por exemplo:
-
-![Tela Principal](assets/tela_principal.png)
 
 ## 🚀 Como Executar
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/DaviSoaresLM/RelogioDigital.git
+   ```
+
+2. Abra o projeto no Android Studio.
+
+3. Conecte um dispositivo físico ou use um emulador.
+
+4. Clique em **Run**.
+
+## 📁 Estrutura do Projeto
+
+```plaintext
+├── app
+│   ├── src
+│   │   ├── main
+│   │   │   ├── java/com/seu_pacote/MainActivity.kt
+│   │   │   └── res
+│   │   │       ├── layout/activity_main.xml
+│   │   │       ├── drawable/bg.png
+│   │   │       └── values/strings.xml
+```
+
+## 📚 Baseado em
+
+Este projeto foi desenvolvido com base na playlist:
+
+📺 [Curso Android Studio para Iniciantes](https://www.youtube.com/playlist?list=PLZCMLqQ7FqfSJ94zeZd92apV2QdK0a3j7) por **Programador a Bordo**.
+
+## ✍️ Autor
+
+Desenvolvido por [Davi](https://github.com/DaviSoaresLM)
+
+---
+```
+
+---
+
