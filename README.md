@@ -47,14 +47,8 @@ Este é um projeto Android simples desenvolvido no Android Studio que exibe um r
 
 Este projeto foi desenvolvido com base na playlist:
 
-📺 [Curso Android Studio para Iniciantes](https://www.youtube.com/playlist?list=PLZCMLqQ7FqfSJ94zeZd92apV2QdK0a3j7) por **Programador a Bordo**.
+📺 [Android Studio Projetos 2025]([https://www.youtube.com/playlist?list=PLZCMLqQ7FqfSJ94zeZd92apV2QdK0a3j7](https://www.youtube.com/watch?v=EYZeAEU7f4o&list=PLZCMLqQ7FqfSJ94zeZd92apV2QdK0a3j7)) por **Área Tech Brasil**.
 
 ## ✍️ Autor
 
 Desenvolvido por [Davi](https://github.com/DaviSoaresLM)
-
----
-```
-
----
-
