@@ -1,6 +1,3 @@
----
-
-```markdown
 # RelogioDigital
 
 Este é um projeto Android simples desenvolvido no Android Studio que exibe um relógio digital com a hora atual. O projeto conta com uma interface estilizada utilizando `ConstraintLayout`, um `TextClock`, e um botão que pode ser programado para mostrar a hora atual em um `TextView`.
