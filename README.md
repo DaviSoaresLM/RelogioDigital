@@ -1,5 +1,3 @@
-Ótimo, Davi! Aqui está o conteúdo personalizado do `README.md` para o seu projeto **RelogioDigital**:
-
 ---
 
 ```markdown
